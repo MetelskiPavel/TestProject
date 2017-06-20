@@ -1,0 +1,10 @@
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\bin\Debug\TestProject.Database.dll.config
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\bin\Debug\TestProject.Database.dll
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\bin\Debug\TestProject.Database.pdb
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\bin\Debug\EntityFramework.dll
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\bin\Debug\EntityFramework.xml
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\obj\Debug\TestProject.Database.csprojResolveAssemblyReference.cache
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\obj\Debug\TestProject.Database.dll
+C:\Users\Admah\documents\visual studio 2017\Projects\TestProject\TestProject.Database\obj\Debug\TestProject.Database.pdb
